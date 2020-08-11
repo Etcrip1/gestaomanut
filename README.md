@@ -1,2 +1,0 @@
-# gestaomanut
-Software Gestão manutenção
