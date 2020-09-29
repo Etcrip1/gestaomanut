@@ -1,13 +1,14 @@
-# gestaomanut
+				Software Gestão manutenção -  Pedro Fascina Casarin
+Linguagem: JAVA
+Interface via: JAVA SWING.
+IDE: Eclipse IDE for Java Developers - 2019-12
+API's: "Desktop".
 
-Pedro Fascina Casarin.
-Descricao:
-
-
-Software Gestão manutenção
-Juncao de links dos formulario de solicitacoes de manutencao,  "dashboard's"
-e listas de tag's dos equipamentos .
-Tecnologia:
-Programa feito em java com interface em javaSwing, formularios linkados do forms Google e dashboard do DataStudio Google
-API's:
-"Desktop"
+	OBJETIVO:
+Com o objetivo de unir os links dos formulario de solicitações de manutenção, 
+"dashboard's" e listas de tag's dos equipamentos, está sendo desenvolvida um app 
+com 2x Menu’s, o primeiro 3 opções para acesso a links externos comunicados
+pela API Desktop (2x Form’s e 1x Dashboard em Data Studio).
+Além disso o Menu 1 tem um link com o Menu de Tag’s (2;
+No Menu 2 estão listadas as linhas de produção e os link’s para as
+respectivas listas em google Doc’s (Comunicação Externa API Desktop)'s.
